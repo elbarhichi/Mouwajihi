@@ -31,7 +31,7 @@ We leverage RAG with documents extracted via web scraping from official Moroccan
 
 - *Overall Project Architecture*:
 
-<img src="Images/graphrag.png" alt="Overall Project Architecture" style="zoom: 100%;" />
+<img src="Images/garchitecture.jpg" alt="Overall Project Architecture" style="zoom: 100%;" />
 
 
 ## Repository Structure
