@@ -43,25 +43,34 @@ We leverage RAG with documents extracted via web scraping from official Moroccan
 To get started with our project, follow these steps:
 
 1. *Clone the Repository*:
+
+```b
     sh
     git clone https://github.com/mohammed-el-barhichi/Mouwajihi.git
     cd mouwajihi
-    
+```
 
 2. *Install Dependencies*:
+
+```b
     sh
     pip install -r requirements.txt
-    
+```
 
 3. *Run the Streamlit Applications*:
+
     - For the Interview Phase:
+
+    ```b
       sh
       streamlit run app_Interviewing Section.py
-      
+    ```
+
     - For the Guiding Phase:
+    ```b
       sh
       streamlit run app_RAG and recommend Section.py
-      
+    ```
 
 ## Contributing
 
