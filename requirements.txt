@@ -1,0 +1,15 @@
+langchain
+pypdf
+sentence-transformers
+openai
+fais-cpu
+langchain_community
+streamlit_chat
+python-dotenv
+langchain_openai
+langchain_groq
+llamaapi
+langchain_experimental
+langchain_openai
+langchain_anthropic
+langchain_google_genai

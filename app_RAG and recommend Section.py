@@ -22,8 +22,6 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage
 from langchain_openai import AzureChatOpenAI
-from langchain.memory import ChatMessageHistory
-
 
 
 load_dotenv()
@@ -31,11 +29,11 @@ load_dotenv()
 
 def initialize_session_state():
     if "history" not in st.session_state:
-        st.session_state["history"] = ChatMessageHistory()
+        st.session_state["history"] = []
 
     if "generated" not in st.session_state:
         st.session_state["generated"] = [
-            "Hello! I'm here to help you."
+            "Hello! Feel free to ask me any questions about your career interests."
         ]
 
     if "past" not in st.session_state:
@@ -93,8 +91,6 @@ def display_chat_history(chain):
 
 
 def create_conversational_chain(vector_store):
-    # llm = ChatAnthropic(model="claude-3-sonnet-20240229")
-
     llm = AzureChatOpenAI(
         azure_endpoint = "https://gpteel.openai.azure.com/", 
         model="ideta-gpt-3-5-turbo",

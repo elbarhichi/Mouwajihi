@@ -1,0 +1,3321 @@
+
+{
+  "identity": 0,
+  "labels": [
+    "School"
+  ],
+  "properties": {
+    "website": "https://www.cpge.ac.ma//",
+    "name": "CPGE",
+    "fullName": "Classes preparatoires pour les grandes ecoles "
+  },
+  "elementId": "0"
+}
+{
+  "identity": 1,
+  "labels": [
+    "School"
+  ],
+  "properties": {
+    "website": "https://insea.ac.ma/",
+    "name": "INSEA",
+    "fullName": "Institut National de Statistique et d'Économie Appliquée",
+    "location": "Rabat"
+  },
+  "elementId": "1"
+}
+{
+  "identity": 2,
+  "labels": [
+    "School"
+  ],
+  "properties": {
+    "website": "https://encgcasa.ma/",
+    "name": "ENCG Casablanca",
+    "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+    "location": "Casablanca"
+  },
+  "elementId": "2"
+}
+{
+  "identity": 3,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Actuariat – Finance"
+  },
+  "elementId": "3"
+}
+{
+  "identity": 4,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Biostatistique"
+  },
+  "elementId": "4"
+}
+{
+  "identity": 5,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Démographie et Big Data"
+  },
+  "elementId": "5"
+}
+{
+  "identity": 6,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Data and Software Engineering"
+  },
+  "elementId": "6"
+}
+{
+  "identity": 7,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Data Science"
+  },
+  "elementId": "7"
+}
+{
+  "identity": 8,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Economie Appliquée"
+  },
+  "elementId": "8"
+}
+{
+  "identity": 9,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Statistique et Big Data"
+  },
+  "elementId": "9"
+}
+{
+  "identity": 10,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "Sciences de la Décision et Recherche Opérationnelle"
+  },
+  "elementId": "10"
+}
+{
+  "identity": 11,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "MPSI"
+  },
+  "elementId": "11"
+}
+{
+  "identity": 12,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "PCSI/PSI"
+  },
+  "elementId": "12"
+}
+{
+  "identity": 13,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "ECS"
+  },
+  "elementId": "13"
+}
+{
+  "identity": 14,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "ECT"
+  },
+  "elementId": "14"
+}
+{
+  "identity": 15,
+  "labels": [
+    "Filiere"
+  ],
+  "properties": {
+    "name": "TSI"
+  },
+  "elementId": "15"
+}
+{
+  "identity": 17,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+  },
+  "elementId": "17"
+}
+{
+  "identity": 18,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management et Gouvernance du Sport (MGS)"
+  },
+  "elementId": "18"
+}
+{
+  "identity": 19,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+  },
+  "elementId": "19"
+}
+{
+  "identity": 20,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Logistique et Transports (MLT)"
+  },
+  "elementId": "20"
+}
+{
+  "identity": 21,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management des Etablissements de Santé (MES)"
+  },
+  "elementId": "21"
+}
+{
+  "identity": 22,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Actuariat et fianaces 2"
+  },
+  "elementId": "22"
+}
+{
+  "identity": 23,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+  },
+  "elementId": "23"
+}
+{
+  "identity": 24,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management et Gouvernance du Sport (MGS)"
+  },
+  "elementId": "24"
+}
+{
+  "identity": 25,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+  },
+  "elementId": "25"
+}
+{
+  "identity": 26,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Logistique et Transports (MLT)"
+  },
+  "elementId": "26"
+}
+{
+  "identity": 27,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management des Etablissements de Santé (MES)"
+  },
+  "elementId": "27"
+}
+{
+  "identity": 28,
+  "labels": [
+    "School"
+  ],
+  "properties": {
+    "name": "FST",
+    "fullName": "Faculté des sciences techniaues ",
+    "location": "MARRAKESH"
+  },
+  "elementId": "28"
+}
+{
+  "identity": 29,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Actuariat et Finances (AF)"
+  },
+  "elementId": "29"
+}
+{
+  "identity": 30,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+  },
+  "elementId": "30"
+}
+{
+  "identity": 31,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management et Gouvernance du Sport (MGS)"
+  },
+  "elementId": "31"
+}
+{
+  "identity": 32,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+  },
+  "elementId": "32"
+}
+{
+  "identity": 33,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management Logistique et Transports (MLT)"
+  },
+  "elementId": "33"
+}
+{
+  "identity": 34,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Management des Etablissements de Santé (MES)"
+  },
+  "elementId": "34"
+}
+{
+  "identity": 35,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Industrie et Sécurité des aliments"
+  },
+  "elementId": "35"
+}
+{
+  "identity": 36,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Ingénierie des Réseaux et Systèmes Informatiques"
+  },
+  "elementId": "36"
+}
+{
+  "identity": 37,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Génie des Matériaux et Procédés"
+  },
+  "elementId": "37"
+}
+{
+  "identity": 38,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Energies renouvelables et mobilité électrique"
+  },
+  "elementId": "38"
+}
+{
+  "identity": 39,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Ingénierie en Finance et Actuariat"
+  },
+  "elementId": "39"
+}
+{
+  "identity": 40,
+  "labels": [
+    "MastersSpecialises"
+  ],
+  "properties": {
+    "name": "Génie Civil"
+  },
+  "elementId": "40"
+}
+{
+  "identity": 41,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Actuaire"
+  },
+  "elementId": "41"
+}
+{
+  "identity": 42,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Ingénieur recherche et développement « quants » "
+  },
+  "elementId": "42"
+}
+{
+  "identity": 43,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Financial and Actuarial Data scientist  "
+  },
+  "elementId": "43"
+}
+{
+  "identity": 44,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Trader   "
+  },
+  "elementId": "44"
+}
+{
+  "identity": 45,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Ingénieur financier"
+  },
+  "elementId": "45"
+}
+{
+  "identity": 46,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Gestionnaire de portefeuille"
+  },
+  "elementId": "46"
+}
+{
+  "identity": 47,
+  "labels": [
+    "Job"
+  ],
+  "properties": {
+    "name": "Data scientist"
+  },
+  "elementId": "47"
+}
+
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 0,
+        "start": 1,
+        "end": 3,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "0",
+        "startNodeElementId": "1",
+        "endNodeElementId": "3"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 4,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Biostatistique"
+    },
+    "elementId": "4"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 1,
+        "start": 1,
+        "end": 4,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "1",
+        "startNodeElementId": "1",
+        "endNodeElementId": "4"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Biostatistique"
+        },
+        "elementId": "4"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 5,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Démographie et Big Data"
+    },
+    "elementId": "5"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 2,
+        "start": 1,
+        "end": 5,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "2",
+        "startNodeElementId": "1",
+        "endNodeElementId": "5"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Démographie et Big Data"
+        },
+        "elementId": "5"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 6,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Data and Software Engineering"
+    },
+    "elementId": "6"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 3,
+        "start": 1,
+        "end": 6,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "3",
+        "startNodeElementId": "1",
+        "endNodeElementId": "6"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Data and Software Engineering"
+        },
+        "elementId": "6"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 7,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Data Science"
+    },
+    "elementId": "7"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 4,
+        "start": 1,
+        "end": 7,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "4",
+        "startNodeElementId": "1",
+        "endNodeElementId": "7"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Data Science"
+        },
+        "elementId": "7"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 8,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Economie Appliquée"
+    },
+    "elementId": "8"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 5,
+        "start": 1,
+        "end": 8,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "5",
+        "startNodeElementId": "1",
+        "endNodeElementId": "8"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Economie Appliquée"
+        },
+        "elementId": "8"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 9,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Statistique et Big Data"
+    },
+    "elementId": "9"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 6,
+        "start": 1,
+        "end": 9,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "6",
+        "startNodeElementId": "1",
+        "endNodeElementId": "9"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Statistique et Big Data"
+        },
+        "elementId": "9"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 1,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://insea.ac.ma/",
+      "name": "INSEA",
+      "fullName": "Institut National de Statistique et d'Économie Appliquée",
+      "location": "Rabat"
+    },
+    "elementId": "1"
+  },
+  "end": {
+    "identity": 10,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Sciences de la Décision et Recherche Opérationnelle"
+    },
+    "elementId": "10"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://insea.ac.ma/",
+          "name": "INSEA",
+          "fullName": "Institut National de Statistique et d'Économie Appliquée",
+          "location": "Rabat"
+        },
+        "elementId": "1"
+      },
+      "relationship": {
+        "identity": 7,
+        "start": 1,
+        "end": 10,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "7",
+        "startNodeElementId": "1",
+        "endNodeElementId": "10"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Sciences de la Décision et Recherche Opérationnelle"
+        },
+        "elementId": "10"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://www.cpge.ac.ma//",
+      "name": "CPGE",
+      "fullName": "Classes preparatoires pour les grandes ecoles "
+    },
+    "elementId": "0"
+  },
+  "end": {
+    "identity": 11,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "MPSI"
+    },
+    "elementId": "11"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://www.cpge.ac.ma//",
+          "name": "CPGE",
+          "fullName": "Classes preparatoires pour les grandes ecoles "
+        },
+        "elementId": "0"
+      },
+      "relationship": {
+        "identity": 8,
+        "start": 0,
+        "end": 11,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "8",
+        "startNodeElementId": "0",
+        "endNodeElementId": "11"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "MPSI"
+        },
+        "elementId": "11"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://www.cpge.ac.ma//",
+      "name": "CPGE",
+      "fullName": "Classes preparatoires pour les grandes ecoles "
+    },
+    "elementId": "0"
+  },
+  "end": {
+    "identity": 12,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "PCSI/PSI"
+    },
+    "elementId": "12"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://www.cpge.ac.ma//",
+          "name": "CPGE",
+          "fullName": "Classes preparatoires pour les grandes ecoles "
+        },
+        "elementId": "0"
+      },
+      "relationship": {
+        "identity": 9,
+        "start": 0,
+        "end": 12,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "9",
+        "startNodeElementId": "0",
+        "endNodeElementId": "12"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "PCSI/PSI"
+        },
+        "elementId": "12"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://www.cpge.ac.ma//",
+      "name": "CPGE",
+      "fullName": "Classes preparatoires pour les grandes ecoles "
+    },
+    "elementId": "0"
+  },
+  "end": {
+    "identity": 13,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "ECS"
+    },
+    "elementId": "13"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://www.cpge.ac.ma//",
+          "name": "CPGE",
+          "fullName": "Classes preparatoires pour les grandes ecoles "
+        },
+        "elementId": "0"
+      },
+      "relationship": {
+        "identity": 10,
+        "start": 0,
+        "end": 13,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "10",
+        "startNodeElementId": "0",
+        "endNodeElementId": "13"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "ECS"
+        },
+        "elementId": "13"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://www.cpge.ac.ma//",
+      "name": "CPGE",
+      "fullName": "Classes preparatoires pour les grandes ecoles "
+    },
+    "elementId": "0"
+  },
+  "end": {
+    "identity": 14,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "ECT"
+    },
+    "elementId": "14"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://www.cpge.ac.ma//",
+          "name": "CPGE",
+          "fullName": "Classes preparatoires pour les grandes ecoles "
+        },
+        "elementId": "0"
+      },
+      "relationship": {
+        "identity": 11,
+        "start": 0,
+        "end": 14,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "11",
+        "startNodeElementId": "0",
+        "endNodeElementId": "14"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "ECT"
+        },
+        "elementId": "14"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 0,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://www.cpge.ac.ma//",
+      "name": "CPGE",
+      "fullName": "Classes preparatoires pour les grandes ecoles "
+    },
+    "elementId": "0"
+  },
+  "end": {
+    "identity": 15,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "TSI"
+    },
+    "elementId": "15"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://www.cpge.ac.ma//",
+          "name": "CPGE",
+          "fullName": "Classes preparatoires pour les grandes ecoles "
+        },
+        "elementId": "0"
+      },
+      "relationship": {
+        "identity": 12,
+        "start": 0,
+        "end": 15,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "12",
+        "startNodeElementId": "0",
+        "endNodeElementId": "15"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "TSI"
+        },
+        "elementId": "15"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 17,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+    },
+    "elementId": "17"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 14,
+        "start": 2,
+        "end": 17,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "14",
+        "startNodeElementId": "2",
+        "endNodeElementId": "17"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+        },
+        "elementId": "17"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 18,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management et Gouvernance du Sport (MGS)"
+    },
+    "elementId": "18"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 15,
+        "start": 2,
+        "end": 18,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "15",
+        "startNodeElementId": "2",
+        "endNodeElementId": "18"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management et Gouvernance du Sport (MGS)"
+        },
+        "elementId": "18"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 19,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+    },
+    "elementId": "19"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 16,
+        "start": 2,
+        "end": 19,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "16",
+        "startNodeElementId": "2",
+        "endNodeElementId": "19"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+        },
+        "elementId": "19"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 20,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Logistique et Transports (MLT)"
+    },
+    "elementId": "20"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 17,
+        "start": 2,
+        "end": 20,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "17",
+        "startNodeElementId": "2",
+        "endNodeElementId": "20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Logistique et Transports (MLT)"
+        },
+        "elementId": "20"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 21,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management des Etablissements de Santé (MES)"
+    },
+    "elementId": "21"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 18,
+        "start": 2,
+        "end": 21,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "18",
+        "startNodeElementId": "2",
+        "endNodeElementId": "21"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management des Etablissements de Santé (MES)"
+        },
+        "elementId": "21"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 22,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Actuariat et fianaces 2"
+    },
+    "elementId": "22"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 19,
+        "start": 2,
+        "end": 22,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "19",
+        "startNodeElementId": "2",
+        "endNodeElementId": "22"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Actuariat et fianaces 2"
+        },
+        "elementId": "22"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 23,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+    },
+    "elementId": "23"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 20,
+        "start": 2,
+        "end": 23,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "20",
+        "startNodeElementId": "2",
+        "endNodeElementId": "23"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+        },
+        "elementId": "23"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 24,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management et Gouvernance du Sport (MGS)"
+    },
+    "elementId": "24"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 21,
+        "start": 2,
+        "end": 24,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "21",
+        "startNodeElementId": "2",
+        "endNodeElementId": "24"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management et Gouvernance du Sport (MGS)"
+        },
+        "elementId": "24"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 25,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+    },
+    "elementId": "25"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 22,
+        "start": 2,
+        "end": 25,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "22",
+        "startNodeElementId": "2",
+        "endNodeElementId": "25"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+        },
+        "elementId": "25"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 26,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Logistique et Transports (MLT)"
+    },
+    "elementId": "26"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 23,
+        "start": 2,
+        "end": 26,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "23",
+        "startNodeElementId": "2",
+        "endNodeElementId": "26"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Logistique et Transports (MLT)"
+        },
+        "elementId": "26"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 2,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "website": "https://encgcasa.ma/",
+      "name": "ENCG Casablanca",
+      "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+      "location": "Casablanca"
+    },
+    "elementId": "2"
+  },
+  "end": {
+    "identity": 27,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management des Etablissements de Santé (MES)"
+    },
+    "elementId": "27"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "website": "https://encgcasa.ma/",
+          "name": "ENCG Casablanca",
+          "fullName": "École Nationale de Commerce et de Gestion de Casablanca",
+          "location": "Casablanca"
+        },
+        "elementId": "2"
+      },
+      "relationship": {
+        "identity": 24,
+        "start": 2,
+        "end": 27,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "24",
+        "startNodeElementId": "2",
+        "endNodeElementId": "27"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management des Etablissements de Santé (MES)"
+        },
+        "elementId": "27"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 29,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Actuariat et Finances (AF)"
+    },
+    "elementId": "29"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 25,
+        "start": 28,
+        "end": 29,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "25",
+        "startNodeElementId": "28",
+        "endNodeElementId": "29"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Actuariat et Finances (AF)"
+        },
+        "elementId": "29"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 30,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+    },
+    "elementId": "30"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 26,
+        "start": 28,
+        "end": 30,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "26",
+        "startNodeElementId": "28",
+        "endNodeElementId": "30"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Comptabilité, Contrôle de Gestion et Audit (CCA)"
+        },
+        "elementId": "30"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 31,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management et Gouvernance du Sport (MGS)"
+    },
+    "elementId": "31"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 27,
+        "start": 28,
+        "end": 31,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "27",
+        "startNodeElementId": "28",
+        "endNodeElementId": "31"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management et Gouvernance du Sport (MGS)"
+        },
+        "elementId": "31"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 32,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+    },
+    "elementId": "32"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 28,
+        "start": 28,
+        "end": 32,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "28",
+        "startNodeElementId": "28",
+        "endNodeElementId": "32"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Stratégique et Gestion de l'Innovation (MSGI)"
+        },
+        "elementId": "32"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 33,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management Logistique et Transports (MLT)"
+    },
+    "elementId": "33"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 29,
+        "start": 28,
+        "end": 33,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "29",
+        "startNodeElementId": "28",
+        "endNodeElementId": "33"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management Logistique et Transports (MLT)"
+        },
+        "elementId": "33"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 34,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Management des Etablissements de Santé (MES)"
+    },
+    "elementId": "34"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 30,
+        "start": 28,
+        "end": 34,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "30",
+        "startNodeElementId": "28",
+        "endNodeElementId": "34"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Management des Etablissements de Santé (MES)"
+        },
+        "elementId": "34"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 35,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Industrie et Sécurité des aliments"
+    },
+    "elementId": "35"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 31,
+        "start": 28,
+        "end": 35,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "31",
+        "startNodeElementId": "28",
+        "endNodeElementId": "35"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Industrie et Sécurité des aliments"
+        },
+        "elementId": "35"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 36,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Ingénierie des Réseaux et Systèmes Informatiques"
+    },
+    "elementId": "36"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 32,
+        "start": 28,
+        "end": 36,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "32",
+        "startNodeElementId": "28",
+        "endNodeElementId": "36"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Ingénierie des Réseaux et Systèmes Informatiques"
+        },
+        "elementId": "36"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 37,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Génie des Matériaux et Procédés"
+    },
+    "elementId": "37"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 33,
+        "start": 28,
+        "end": 37,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "33",
+        "startNodeElementId": "28",
+        "endNodeElementId": "37"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Génie des Matériaux et Procédés"
+        },
+        "elementId": "37"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 38,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Energies renouvelables et mobilité électrique"
+    },
+    "elementId": "38"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 34,
+        "start": 28,
+        "end": 38,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "34",
+        "startNodeElementId": "28",
+        "endNodeElementId": "38"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Energies renouvelables et mobilité électrique"
+        },
+        "elementId": "38"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 39,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Ingénierie en Finance et Actuariat"
+    },
+    "elementId": "39"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 35,
+        "start": 28,
+        "end": 39,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "35",
+        "startNodeElementId": "28",
+        "endNodeElementId": "39"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Ingénierie en Finance et Actuariat"
+        },
+        "elementId": "39"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 28,
+    "labels": [
+      "School"
+    ],
+    "properties": {
+      "name": "FST",
+      "fullName": "Faculté des sciences techniaues ",
+      "location": "MARRAKESH"
+    },
+    "elementId": "28"
+  },
+  "end": {
+    "identity": 40,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Génie Civil"
+    },
+    "elementId": "40"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "School"
+        ],
+        "properties": {
+          "name": "FST",
+          "fullName": "Faculté des sciences techniaues ",
+          "location": "MARRAKESH"
+        },
+        "elementId": "28"
+      },
+      "relationship": {
+        "identity": 36,
+        "start": 28,
+        "end": 40,
+        "type": "OFFERS",
+        "properties": {
+
+        },
+        "elementId": "36",
+        "startNodeElementId": "28",
+        "endNodeElementId": "40"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Génie Civil"
+        },
+        "elementId": "40"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 41,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Actuaire"
+    },
+    "elementId": "41"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 37,
+        "start": 3,
+        "end": 41,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "37",
+        "startNodeElementId": "3",
+        "endNodeElementId": "41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Actuaire"
+        },
+        "elementId": "41"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 42,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Ingénieur recherche et développement « quants » "
+    },
+    "elementId": "42"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 38,
+        "start": 3,
+        "end": 42,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "38",
+        "startNodeElementId": "3",
+        "endNodeElementId": "42"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Ingénieur recherche et développement « quants » "
+        },
+        "elementId": "42"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 43,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Financial and Actuarial Data scientist  "
+    },
+    "elementId": "43"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 39,
+        "start": 3,
+        "end": 43,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "39",
+        "startNodeElementId": "3",
+        "endNodeElementId": "43"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Financial and Actuarial Data scientist  "
+        },
+        "elementId": "43"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 44,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Trader   "
+    },
+    "elementId": "44"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 40,
+        "start": 3,
+        "end": 44,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "40",
+        "startNodeElementId": "3",
+        "endNodeElementId": "44"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Trader   "
+        },
+        "elementId": "44"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 45,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Ingénieur financier"
+    },
+    "elementId": "45"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 41,
+        "start": 3,
+        "end": 45,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "41",
+        "startNodeElementId": "3",
+        "endNodeElementId": "45"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Ingénieur financier"
+        },
+        "elementId": "45"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 3,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "Actuariat – Finance"
+    },
+    "elementId": "3"
+  },
+  "end": {
+    "identity": 46,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Gestionnaire de portefeuille"
+    },
+    "elementId": "46"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "Actuariat – Finance"
+        },
+        "elementId": "3"
+      },
+      "relationship": {
+        "identity": 42,
+        "start": 3,
+        "end": 46,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "42",
+        "startNodeElementId": "3",
+        "endNodeElementId": "46"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Gestionnaire de portefeuille"
+        },
+        "elementId": "46"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 29,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Actuariat et Finances (AF)"
+    },
+    "elementId": "29"
+  },
+  "end": {
+    "identity": 41,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Actuaire"
+    },
+    "elementId": "41"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 29,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Actuariat et Finances (AF)"
+        },
+        "elementId": "29"
+      },
+      "relationship": {
+        "identity": 50,
+        "start": 29,
+        "end": 41,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "50",
+        "startNodeElementId": "29",
+        "endNodeElementId": "41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Actuaire"
+        },
+        "elementId": "41"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Actuariat et fianaces 2"
+    },
+    "elementId": "22"
+  },
+  "end": {
+    "identity": 41,
+    "labels": [
+      "Job"
+    ],
+    "properties": {
+      "name": "Actuaire"
+    },
+    "elementId": "41"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Actuariat et fianaces 2"
+        },
+        "elementId": "22"
+      },
+      "relationship": {
+        "identity": 51,
+        "start": 22,
+        "end": 41,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "51",
+        "startNodeElementId": "22",
+        "endNodeElementId": "41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Job"
+        ],
+        "properties": {
+          "name": "Actuaire"
+        },
+        "elementId": "41"
+      }
+    }
+  ],
+  "length": 1.0
+}
+{
+  "start": {
+    "identity": 11,
+    "labels": [
+      "Filiere"
+    ],
+    "properties": {
+      "name": "MPSI"
+    },
+    "elementId": "11"
+  },
+  "end": {
+    "identity": 22,
+    "labels": [
+      "MastersSpecialises"
+    ],
+    "properties": {
+      "name": "Actuariat et fianaces 2"
+    },
+    "elementId": "22"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 11,
+        "labels": [
+          "Filiere"
+        ],
+        "properties": {
+          "name": "MPSI"
+        },
+        "elementId": "11"
+      },
+      "relationship": {
+        "identity": 52,
+        "start": 11,
+        "end": 22,
+        "type": "LEADS_TO",
+        "properties": {
+
+        },
+        "elementId": "52",
+        "startNodeElementId": "11",
+        "endNodeElementId": "22"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "MastersSpecialises"
+        ],
+        "properties": {
+          "name": "Actuariat et fianaces 2"
+        },
+        "elementId": "22"
+      }
+    }
+  ],
+  "length": 1.0
+}
+
+

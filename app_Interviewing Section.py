@@ -24,12 +24,14 @@ from langchain_core.messages import HumanMessage
 from langchain_openai import AzureChatOpenAI
 from langchain.memory import ChatMessageHistory
 
+
+
 load_dotenv()
 
 
 prompt_demo = """
 "Comporte-toi comme un consultant en orientation académique. Ton rôle est d'aider un 
-étudiant à s'orienter en posant une série de questions une par une, selon le questionnaire cidessous. Après avoir posé chaque question, attends la réponse de l'étudiant avant de poser la 
+étudiant à s'orienter en posant une série de questions une par une, selon le questionnaire ci dessous. Après avoir posé chaque question, attends la réponse de l'étudiant avant de poser la 
 suivante." 
 
 
@@ -37,6 +39,7 @@ Pose-moi la question une par une et je vais te repondre
 
 et apres mes reponses tu dois les annalyser et me proposer des metiers qui me conviennent le plus
 
+tu peux poser d'autres questions si tu veux 
 
 #### Questionnaire d'Orientation Académique pour les Élèves au Niveau Baccalauréat au 
 Maroc 
@@ -109,71 +112,12 @@ Maroc
 
 
 
-apres avoir poser ces 10 questions, affiche axactement ce msg, ne change rien:
 
-"Maintenant que nous avons analysé vos réponses au questionnaire, je vais vous proposer trois 
-métiers spécifiques liés aux mathématiques qui pourraient correspondre à vos intérêts et 
-compétences. 
-Je vais aussi vous expliquer brièvement chaque métier et donner un exemple de projet pratique 
-que vous pourriez réaliser en tant qu'étudiant pour mieux comprendre chaque rôle." 
+ when you finish the conversation, you have to give a summary of the interests of the student so that we can use it to continue the second part of the conversation
+
+ """
 
 
-
-#### Métiers liés aux mathématiques 
-1. Ingénieur en Intelligence Artificielle (IA) 
-- **Description** : Les ingénieurs en IA utilisent les mathématiques et la programmation pour 
-créer des systèmes intelligents capables de résoudre des problèmes complexes. Imagine 
-pouvoir programmer un ordinateur pour qu'il puisse reconnaître des visages, recommander des 
-chansons, ou même diagnostiquer des maladies ! 
-- **Environnement de travail** : Ils travaillent dans des laboratoires de recherche, des 
-entreprises technologiques comme Google ou Apple, des start-ups innovantes, et même dans 
-des universités. Les ingénieurs en IA sont partout où la technologie de pointe est développée. 
-- **Exemple de projet pratique** : Imagine que tu crées un modèle informatique qui utilise les 
-notes de tes camarades de classe pour prédire leurs futures performances scolaires. C'est 
-exactement le genre de projet sur lequel un ingénieur en IA pourrait travailler ! 
-
-
-2. Actuaire 
-- **Description** : Les actuaires utilisent les mathématiques et les statistiques pour évaluer les 
-risques financiers et les incertitudes. En gros, ils aident les compagnies d'assurance et les 
-banques à décider combien facturer pour les assurances et autres services en se basant sur des 
-données et des prévisions. 
-- **Environnement de travail** : Ils travaillent dans des compagnies d'assurance, des cabinets 
-de conseil, des banques, et même pour le gouvernement. Partout où il y a des risques à gérer et 
-de l'argent en jeu, les actuaires sont là. 
-- **Exemple de projet pratique** : Imagine que tu analyses les données des accidents de voiture 
-pour créer un modèle qui prédit combien les gens devraient payer pour leur assurance auto. Tu 
-utiliserais des techniques statistiques pour comprendre les risques et les coûts associés. C'est 
-un projet typique sur lequel un actuaire pourrait travailler ! 
-
-
-
-3. Chercheur en Mathématiques Appliquées 
-- **Description** : Les chercheurs en mathématiques appliquées utilisent les maths pour 
-résoudre des problèmes dans des domaines variés comme la physique, l'ingénierie, la biologie 
-et l'économie. Ils sont un peu comme des détectives des chiƯres, utilisant des équations et des 
-formules pour résoudre des mystères dans le monde réel. 
-- **Environnement de travail** : Ces chercheurs travaillent dans des endroits excitants comme 
-les universités, les laboratoires de recherche, les instituts de recherche, et même dans des 
-entreprises technologiques et des industries. C'est un peu comme explorer un monde de 
-connaissances infini ! 
-- **Exemple de projet pratique** : Imagine créer un modèle mathématique qui simule la 
-propagation d'une maladie infectieuse. Tu utiliserais des équations spéciales et des simulations 
-informatiques pour comprendre comment la maladie se propage et comment on peut la 
-contrôler. C'est un peu comme jouer à deviner l'avenir, mais avec des maths ! 
-
-
-Ces métiers sont tous fortement ancrés dans les mathématiques et oƯrent des opportunités de 
-carrière passionnantes et stimulantes pour ceux qui ont un amour des mathématiques. 
-Maintenant, nous allons passer à la prochaine étape pour vous aider à choisir lequel de ces 
-métiers vous attire le plus. Voici quelques questions supplémentaires : """
-
-from langchain.memory import ChatMessageHistory
-
-
-
-
-print(1111)
 
 
 def initialize_session_state():
