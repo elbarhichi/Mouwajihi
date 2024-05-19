@@ -24,7 +24,7 @@ We leverage RAG with documents extracted via web scraping from official Moroccan
 
 ## Architectures
 
-- *Graph Database Architecture*:
+- *Graph Database Architecture (for the demo use case)*:
 
 <img src="Images/graphrag.png" alt="Graph Database Architecture" style="zoom: 100%;" />
 
