@@ -1,4 +1,4 @@
-# Student Orientation AI Chatbot for Morocco
+# OrienTech Chatbot
 
 ## Overview
 
@@ -10,7 +10,9 @@ Our project aims to implement a Retrieval-Augmented Generation (RAG) system to a
 ## Team
 
 EL BARHICHI Mohammed
+
 MEZIANY Imane
+
 EL YOUBI Asmae
 
 ## Solution Description
