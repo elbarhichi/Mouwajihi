@@ -11,6 +11,8 @@ Our project aims to implement a Retrieval-Augmented Generation (RAG) system to a
 
 EL BARHICHI Mohammed
 
+Abdelaziz Guelfane
+
 MEZIANY Imane
 
 EL YOUBI Asmae
